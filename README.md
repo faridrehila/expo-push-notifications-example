@@ -180,7 +180,7 @@ expo-push-notifications-example/
 
 ## 🎓 Used in Production
 
-This implementation pattern is used in **[Love Album](https://love-album.com?ref=github)**, where we send 500+ wedding photo notifications per month to guests.
+This implementation pattern is used in **[Love Album](https://love-album.com?ref=github)** and **[Easy Job Room](https://easyjobroom.ch?ref=github)**, where we send 1000+ wedding photo and job reminders notifications per month to our users.
 
 ## 📚 Part of React Académie
 
